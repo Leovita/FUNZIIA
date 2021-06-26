@@ -1,2 +1,0 @@
-# cv
-Initial website files
